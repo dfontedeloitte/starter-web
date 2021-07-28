@@ -5,4 +5,4 @@ SIMPLE EXAMPLE
 
 ## Purpose
 
-Sample website with plenty of files for demos blah
+Sample website with plenty of files for demos blah bruh
